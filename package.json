@@ -1,0 +1,32 @@
+{
+  "name": "static-website",
+  "version": "1.0.0",
+  "description": "Grunt static website generator",
+  "homepage": "https://web6.fr/",
+  "main": "dist/index.html",
+  "author": "WEB 6",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "cssnano": "latest",
+    "grunt": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-htmlmin": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-ejs": "latest",
+    "grunt-newer": "latest",
+    "grunt-postcss": "latest",
+    "grunt-purifycss": "latest",
+    "grunt-sass": "latest",
+    "grunt-xml-sitemap": "latest",
+    "load-grunt-config": "latest",
+    "load-grunt-tasks": "latest",
+    "node-sass": "latest",
+    "time-grunt": "latest"
+  }
+}
