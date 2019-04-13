@@ -27,6 +27,7 @@
     "load-grunt-config": "latest",
     "load-grunt-tasks": "latest",
     "node-sass": "latest",
-    "time-grunt": "latest"
+    "time-grunt": "latest",
+    "knacss": "latest"
   }
 }
